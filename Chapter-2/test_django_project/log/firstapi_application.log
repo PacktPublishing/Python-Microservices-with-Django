@@ -1,0 +1,3 @@
+.[22/Jun/2021 20:12:39.465] INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[22/Jun/2021 20:12:45.388] INFO [api_test.views:10] Inside the getapi function........
+[22/Jun/2021 20:12:45.388] INFO [django.server:161] "GET /first_test_get_api/ HTTP/1.1" 200 24
