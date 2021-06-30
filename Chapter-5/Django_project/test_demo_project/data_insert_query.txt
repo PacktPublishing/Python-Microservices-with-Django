@@ -1,0 +1,11 @@
+
+from app01.models import Employee as emp
+
+b = emp(first_name="Shayank", last_name="Jain")
+b.save()
+
+b = emp(first_name="Mayank", last_name="Jain")
+b.save()
+
+emp.objects.all()
+
