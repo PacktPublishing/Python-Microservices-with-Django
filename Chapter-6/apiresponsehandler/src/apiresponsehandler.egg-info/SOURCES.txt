@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/apiresponsehandler.py
+src/apiresponsehandler.egg-info/PKG-INFO
+src/apiresponsehandler.egg-info/SOURCES.txt
+src/apiresponsehandler.egg-info/dependency_links.txt
+src/apiresponsehandler.egg-info/top_level.txt

@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: apiresponsehandler
+Version: 0.0.1
+Summary: It is used for prepating the API reponse
+Home-page: UNKNOWN
+Author: Shayank Jain
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+
+```
+## Usage
+
+from apiresponsehandler import send_response
+
+# To genareta the response.
+send_response("200", "Success", "This is our data")
+
+
+```
+
+
